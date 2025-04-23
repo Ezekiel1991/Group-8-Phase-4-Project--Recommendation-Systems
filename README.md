@@ -57,9 +57,7 @@ To run this project, you will need to have Python installed along with the neces
 
 
 - `Group_8_Phase_4_Project.ipynb`: Main notebook containing the recommendation system implementation.
-- `Group_8_Phase_4_Project_(1).ipynb`: Additional experiments or variations of the main project.
-- `Group_8_Phase_4_Project_Preprocessing.ipynb`: Notebook for data preprocessing steps.
-- `requirements.txt`: List of required Python packages.
+
 
 ## EDA
 
